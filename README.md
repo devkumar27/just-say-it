@@ -1,5 +1,5 @@
 # just-say-it
-This is a speech-to-text convertor which gives returns whatever we said with the correct grammar.
+This is a speech-to-text convertor which takes speech as an input and returns whatever we said with the correct grammar.
 ## Installation
 - Set up a viirtual python environment.
 - Open Terminal and paste the command `pip install speechrecogniton`. You can check whether the installed module is working or not pasting `python -m speech_recognition` in the terminal.
