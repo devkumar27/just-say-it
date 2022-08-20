@@ -30,9 +30,4 @@ class Corrector:
         return corrected_text
 
 
-if __name__=='__main__':
-    print("you is a good boy")
-    c = Corrector()
-    res=c.correct_text("You is a good boy")
 
-    print(res)
